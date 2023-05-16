@@ -19,15 +19,15 @@ When importing a CSV file into MantisBT, you should not choose the **“ID”** 
 
 | CSV field | MantisBT field |
 | ------ | ------ |
-| Ticket Number | Summary |
+| Ticket Number | Ticket Number (Custom Field) |
 | Issue Description | Description |
-| Project/Dept Name | Category |
+| Project/Dept Name | Project Name (Custom Field) |
 | Status | Status |
-| Reason/Resolution | Resolution |
-| Primary Contact From User (Name/Email/No.) | Additional Information (custom field) |
+| Reason/Resolution | Reason/Resolution (Custom Field) |
+| Primary Contact From User (Name/Email/No.) | Primary Contact From User (Name/Email/No.) (Custom field) |
 | Tech Support Team(Attended By) | Assigned To |
 | Ticket Medium | Additional Information (custom field) |
-| CUC/Cloud/NIC Coordinator (Name/email) | Additional Information (custom field) |
+| CUC/Cloud/NIC Coordinator (Name/email) | CUC/Cloud/NIC Coordinator (Name/email) (Custom field) |
 | Date/Received to CCC | Date Submitted |
 | Remarks/External Issues (if any) | Additional Information (custom field) |
 | OS Details | Additional Information (custom field) |
