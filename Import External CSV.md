@@ -35,7 +35,7 @@ When importing a CSV file into MantisBT, you should not choose the **“ID”** 
 
 Here is the suggested mapping of your CSV fields to the fields in MantisBT:
 
-Based on the fields in your CSV, here are some suggestions for custom fields in MantisBT and their data types:
+Custom fields in MantisBT and their data types:
 
 | field | Data Type |
 | ------ | ------ |
