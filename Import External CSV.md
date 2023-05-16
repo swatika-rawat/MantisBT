@@ -13,7 +13,7 @@ When importing an external CSV file into MantisBT, the following fields are typi
 - Assigned To: The name or username of the person who is responsible for resolving the issue
 - Date Submitted: The date on which the issue was reported
 - Last Updated: The date on which the issue was last updated
-- Resolution: Includes the following values ("open","fixed","reopened")
+- Resolution: Includes the following values ("open","fixed","reopened",etc)
 
 
 When importing a CSV file into MantisBT, you should not choose the **“ID”** column as this is only used for updating existing bugs.
